@@ -58,7 +58,7 @@ Markdwon 重制版： [Yiyang He](http://heyiyang.github.io "github")
 
 `git commit -m "代码提交信息"`
 
-现在，你的改动已经提交到了 ***HEAD***，但是还没到你的远端仓库。
+现在，你的改动已经提交到了 **HEAD**，但是还没到你的远端仓库。
 
 推送改动
 -------
