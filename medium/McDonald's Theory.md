@@ -10,7 +10,7 @@ McDonald’s Theory
 
 I use a trick with co-workers when we’re trying to decide where to eat for lunch and no one has any ideas. I recommend McDonald’s.
 
-An interesting thing happens. Everyone [unanimously](http://www.wolframalpha.com/input/?i=unanimously "[ jʊ'nænəməsli ] adv. 全体一致地") agrees that we can’t possibly go to McDonald’s, and better lunch suggestions emerge. Magic!
+An interesting thing happens. Everyone [unanimously](http://www.collinsdictionary.com/dictionary/english/unanimously?showCookiePolicy=true "[ jʊ'nænəməsli ] adv. 全体一致地") agrees that we can’t possibly go to McDonald’s, and better lunch suggestions [emerge](http://www.collinsdictionary.com/dictionary/english/emerge?showCookiePolicy=true "[ɪ'mɝdʒ] vi. 浮现；摆脱；暴露"). Magic!
 
 It’s as if we’ve broken the ice with the worst possible idea, and now that the discussion has started, people suddenly get very creative. I call it the McDonald’s Theory: people are inspired to come up with good ideas to ward off bad ones.
 
